@@ -2,9 +2,9 @@ import pyrsess
 import matplotlib.pyplot as plt
 import numpy as np
 
-max_energy = 1120
-seq_len = 96
-max_amplitude = 8
+max_energy      = 1946
+seq_len         = 250
+max_amplitude   = 8
 myshaper = pyrsess.ESS(max_energy, seq_len, max_amplitude)
 
 # encode a random bit array
