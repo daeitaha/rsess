@@ -6986,3 +6986,8 @@ rsess_venv/lib/python3.8/site-packages/tzdata-2023.3.dist-info/METADATA
 rsess_venv/lib/python3.8/site-packages/tzdata-2023.3.dist-info/RECORD
 rsess_venv/lib/python3.8/site-packages/tzdata-2023.3.dist-info/top_level.txt
 rsess_venv/lib/python3.8/site-packages/tzdata-2023.3.dist-info/WHEEL
+.DS_Store
+rsess_venv/.DS_Store
+rsess_venv/lib/.DS_Store
+rsess_venv/lib/python3.8/.DS_Store
+rsess_venv/lib/python3.8/site-packages/.DS_Store
